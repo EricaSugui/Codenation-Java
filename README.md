@@ -6,7 +6,7 @@ Meus arquivos Codenation - AceleraDev - JAVA.
 - Apresentação e introdução à linguagem
 - Fibonacci - pasta java-0
 - Criptografia de Júlio César - pasta java-6
-- Calculadora de Salário Líquido - a ver
+- Calculadora de Salário Líquido - pasta java-13
 
 ## Segunda Semana
 - A ver.
