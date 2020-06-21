@@ -21,7 +21,7 @@ public class CalculadoraSalario {
 		if (salario <= 1500.0) {
 			return salario - (salario * 8)/100;
 		}
-		else if (salario > 1500.0 && salario <= 4000.00) {
+		else if (salario <= 4000.00) {
 			return salario - (salario * 9)/100;
 		}
 		else {
@@ -33,7 +33,7 @@ public class CalculadoraSalario {
 		if (salario <= 3000.0) {
 			return salario;
 		}
-		else if (salario > 3000.0 && salario <= 6000.0 ) {
+		else if (salario <= 6000.0 ) {
 			return salario - (salario * 7.5)/100;
 		}
 		else {

@@ -63,3 +63,7 @@ Para instalar no MacOS, usando o HomeBrew basta executar:
     brew cask install java
 
 Para instalar no Linux e no Windows, confira os links na seção de conteúdo.
+
+## Versões
+
+Código diminuído por sugestão de codereview feito por colega.
