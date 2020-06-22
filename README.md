@@ -9,7 +9,7 @@ Meus arquivos Codenation - AceleraDev - JAVA.
 - Calculadora de Salário Líquido - pasta java-13
 
 ## Segunda Semana
-- FP vs OO - https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html
+- [FP vs OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
 - POO com Java - https://www.devmedia.com.br/programacao-orientada-a-objetos-com-java/18449
 - Encapsulamento, Polimorfismo, Herança em Java - https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
 - Java Exceptions - https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
